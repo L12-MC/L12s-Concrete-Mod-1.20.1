@@ -2,7 +2,9 @@ package net.l12.l12concrete;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.l12.l12concrete.block.ModBlocks;
+import net.minecraft.item.ItemGroups;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -19,7 +21,9 @@ public class L12sConcreteMod implements ModInitializer {
 		// This code runs as soon as Minecraft is in a mod-load-ready state.
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
-
+		ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(content -> {
+			content.add(ModBlocks.REALISTIC_CONCRETE);
+		});
 		LOGGER.info("L12concrete: Initialized Successfully!!");
 		ModBlocks.registerModBlocks();
 
