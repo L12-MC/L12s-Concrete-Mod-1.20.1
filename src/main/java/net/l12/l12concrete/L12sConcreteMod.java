@@ -2,6 +2,7 @@ package net.l12.l12concrete;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.l12.l12concrete.block.ModBlocks;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -20,5 +21,7 @@ public class L12sConcreteMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("L12concrete: Initialized Successfully!!");
+		ModBlocks.registerModBlocks();
+
 	}
 }
