@@ -11,12 +11,15 @@
 		"homepage": "none haha!!",
 		"sources": "https://github.com/L12-MC/L12s-Concrete-Mod-1.20.1"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/l12-concrete/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"net.l12.l12concrete.L12sConcreteMod"
+		],
+		"client": [
+			"net.l12.l12concrete.L12sConcreteModClient"
 		],
 		"fabric-datagen": [
 			"net.l12.l12concrete.L12sConcreteModDataGenerator"
