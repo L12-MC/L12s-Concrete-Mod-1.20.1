@@ -1,15 +1,15 @@
 {
 	"schemaVersion": 1,
-	"id": "l12-concrete",
+	"id": "l12_concrete",
 	"version": "${version}",
 	"name": "L12's Concrete Mod",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "adds concrete that isn't ugly",
 	"authors": [
-		"Me!"
+		"l12"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "none haha!!",
+		"sources": "https://github.com/L12-MC/L12s-Concrete-Mod-1.20.1"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/l12-concrete/icon.png",
@@ -32,6 +32,6 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"create": "0.5.1-j"
 	}
 }
