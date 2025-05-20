@@ -1,3 +1,5 @@
 {
-  "block.l12_concrete.realistic_concrete": "Seamless Concrete"
+  "block.l12_concrete.realistic_concrete": "Seamless Concrete",
+  "block.l12_concrete.polished_concrete": "Polished Concrete",
+  "block.l12_concrete.dark_polished_concrete": "Dark Polished Concrete"
 }
