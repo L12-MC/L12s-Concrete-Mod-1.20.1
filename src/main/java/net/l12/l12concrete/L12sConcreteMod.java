@@ -25,6 +25,7 @@ public class L12sConcreteMod implements ModInitializer {
 			content.add(ModBlocks.REALISTIC_CONCRETE);
 			content.add(ModBlocks.POLISHED_CONCRETE);
 			content.add(ModBlocks.DARK_POLISHED_CONCRETE);
+			content.add(ModBlocks.TILED_CONCRETE);
 		});
 		LOGGER.info("L12concrete: Initialized Successfully!!");
 		ModBlocks.registerModBlocks();
