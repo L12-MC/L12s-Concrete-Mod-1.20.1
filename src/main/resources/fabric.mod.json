@@ -12,7 +12,7 @@
 		"sources": "https://github.com/L12-MC/L12s-Concrete-Mod-1.20.1"
 	},
 	"license": "MIT",
-	"icon": "assets/l12-concrete/icon.png",
+	"icon": "assets/l12_concrete/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
