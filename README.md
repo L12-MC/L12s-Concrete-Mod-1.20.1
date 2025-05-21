@@ -4,7 +4,7 @@ Have you ever wondered "Why are the deafult concrete blocks not realistic or goo
 Well, this is the mod for you. 
 It adds 4 new concrete blocks (for now) that are more good looking and realistic.
 
-**(none of the blocks from this mod are obtainable in survuval for now)**
+~~**(none of the blocks from this mod are obtainable in survival for now)**~~
 
 
 <details>
