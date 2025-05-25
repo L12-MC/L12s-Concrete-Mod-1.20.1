@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "l12_concrete:block/concrete_dyed_001"
+  }
+}
