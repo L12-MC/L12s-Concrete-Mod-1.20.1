@@ -2,5 +2,21 @@
   "block.l12_concrete.realistic_concrete": "Seamless Concrete",
   "block.l12_concrete.polished_concrete": "Polished Concrete",
   "block.l12_concrete.dark_polished_concrete": "Dark Polished Concrete",
-  "block.l12_concrete.tiled_concrete": "Tiled Concrete"
+  "block.l12_concrete.tiled_concrete": "Tiled Concrete",
+  "block.l12_concrete.light_gray_realistic_concrete": "Light Gray Seamless Concrete",
+  "block.l12_concrete.gray_realistic_concrete": "Gray Seamless Concrete",
+  "block.l12_concrete.black_realistic_concrete": "Black Seamless Concrete",
+  "block.l12_concrete.brown_realistic_concrete": "Brown Seamless Concrete",
+  "block.l12_concrete.red_realistic_concrete": "Red Seamless Concrete",
+  "block.l12_concrete.orange_realistic_concrete": "Orange Seamless Concrete",
+  "block.l12_concrete.yellow_realistic_concrete": "Yellow Seamless Concrete",
+  "block.l12_concrete.lime_realistic_concrete": "Lime Seamless Concrete",
+  "block.l12_concrete.green_realistic_concrete": "Green Seamless Concrete",
+  "block.l12_concrete.cyan_realistic_concrete": "Cyan Seamless Concrete",
+  "block.l12_concrete.light_blue_realistic_concrete": "Light Blue Seamless Concrete",
+  "block.l12_concrete.blue_realistic_concrete": "Blue Seamless Concrete",
+  "block.l12_concrete.purple_realistic_concrete": "Purple Seamless Concrete",
+  "block.l12_concrete.magenta_realistic_concrete": "Magenta Seamless Concrete",
+  "block.l12_concrete.pink_realistic_concrete": "Pink Seamless Concrete",
+  "block.l12_concrete.white_realistic_concrete": "White Seamless Concrete"
 }
