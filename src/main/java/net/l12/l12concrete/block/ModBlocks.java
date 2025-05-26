@@ -36,6 +36,7 @@ public class ModBlocks {
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
+        L12sConcreteMod.LOGGER.info("Registering block: " + name);
         return Registry.register(Registries.BLOCK, new Identifier(L12sConcreteMod.MOD_ID, name), block);
     }
 
@@ -45,6 +46,6 @@ public class ModBlocks {
     }
 
     public static void registerModBlocks() {
-        L12sConcreteMod.LOGGER.info("L12concrete: Registering Mod Blocks");
+        L12sConcreteMod.LOGGER.info("L12concrete: Registering Mod Blocks...");
     }
 }
