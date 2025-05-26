@@ -44,7 +44,7 @@ public class L12sConcreteMod implements ModInitializer {
 			content.add(ModBlocks.PINK_REALISTIC_CONCRETE);
 			content.add(ModBlocks.WHITE_REALISTIC_CONCRETE);
 		});
-		LOGGER.info("L12concrete, " + "version: " + MOD_VER + "   : Initialized Successfully!!");
+		LOGGER.info(MOD_ID + ", made by L12,  " + "version: " + MOD_VER + " : Initialized Successfully!!");
 		ModBlocks.registerModBlocks();
 
 	}
