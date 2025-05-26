@@ -46,6 +46,6 @@ public class ModBlocks {
     }
 
     public static void registerModBlocks() {
-        L12sConcreteMod.LOGGER.info("L12concrete: Registering Mod Blocks...");
+        L12sConcreteMod.LOGGER.info("L12concrete: Registered Mod Blocks...");
     }
 }
