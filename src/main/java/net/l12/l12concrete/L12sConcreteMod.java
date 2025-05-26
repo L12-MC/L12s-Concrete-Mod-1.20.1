@@ -10,7 +10,7 @@ import org.slf4j.LoggerFactory;
 
 public class L12sConcreteMod implements ModInitializer {
 	public static final String MOD_ID = "l12_concrete";
-	public static final String MOD_VER = "1.3";
+	public static final String MOD_VER = "1.2";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.

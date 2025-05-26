@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "l12_concrete",
-	"version": "${version}",
+	"version": "1.2",
 	"name": "L12's Concrete Mod",
 	"description": "adds concrete that isn't ugly",
 	"authors": [
